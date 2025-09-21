@@ -1,0 +1,2 @@
+openpyxl==2.4.11
+psutil==5.9.0
